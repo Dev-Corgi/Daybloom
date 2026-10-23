@@ -1,0 +1,66 @@
+# Stoic flow capture manifest
+
+- `verified` 01 Onboarding: 13/13 screenshots — `docs\Stoic\flows\01-onboarding`
+- `verified` 02 Subscribing to premium: 13/13 screenshots — `docs\Stoic\flows\02-subscribing-to-premium`
+- `verified` 03 Premium + AI features: 4/4 screenshots — `docs\Stoic\flows\03-premium-ai-features`
+- `verified` 04 Today: 6/6 screenshots — `docs\Stoic\flows\04-today`
+- `verified` 05 Logging a daily reflection (morning): 18/18 screenshots — `docs\Stoic\flows\05-logging-a-daily-reflection-morning`
+- `verified` 06 Recording a voice note: 6/6 screenshots — `docs\Stoic\flows\06-recording-a-voice-note`
+- `verified` 07 Drawing a sketch: 4/4 screenshots — `docs\Stoic\flows\07-drawing-a-sketch`
+- `verified` 08 Editing text format: 4/4 screenshots — `docs\Stoic\flows\08-editing-text-format`
+- `verified` 09 Asking AI for insights: 5/5 screenshots — `docs\Stoic\flows\09-asking-ai-for-insights`
+- `verified` 10 Logging a daily reflection (evening): 12/12 screenshots — `docs\Stoic\flows\10-logging-a-daily-reflection-evening`
+- `verified` 11 Quote journal: 2/2 screenshots — `docs\Stoic\flows\11-quote-journal`
+- `verified` 12 Personalizing page content: 4/4 screenshots — `docs\Stoic\flows\12-personalizing-page-content`
+- `verified` 13 Adding prompts to daily reflections: 15/15 screenshots — `docs\Stoic\flows\13-adding-prompts-to-daily-reflections`
+- `verified` 14 Adding a focus: 8/8 screenshots — `docs\Stoic\flows\14-adding-a-focus`
+- `verified` 15 Hiding a focus: 4/4 screenshots — `docs\Stoic\flows\15-hiding-a-focus`
+- `verified` 16 Adding a metric to daily reflections: 8/8 screenshots — `docs\Stoic\flows\16-adding-a-metric-to-daily-reflections`
+- `verified` 17 Tomorrow: 2/2 screenshots — `docs\Stoic\flows\17-tomorrow`
+- `verified` 18 Inspirations: 8/8 screenshots — `docs\Stoic\flows\18-inspirations`
+- `verified` 19 Share a prompt: 4/4 screenshots — `docs\Stoic\flows\19-share-a-prompt`
+- `verified` 20 Favoriting a prompt: 2/2 screenshots — `docs\Stoic\flows\20-favoriting-a-prompt`
+- `verified` 21 Choosing a card theme: 3/3 screenshots — `docs\Stoic\flows\21-choosing-a-card-theme`
+- `verified` 22 Choosing a prompt category: 4/4 screenshots — `docs\Stoic\flows\22-choosing-a-prompt-category`
+- `verified` 23 Favoriting exercises: 5/5 screenshots — `docs\Stoic\flows\23-favoriting-exercises`
+- `verified` 24 Logging a journal entry: 4/4 screenshots — `docs\Stoic\flows\24-logging-a-journal-entry`
+- `verified` 25 Logging a mood check-in: 12/12 screenshots — `docs\Stoic\flows\25-logging-a-mood-check-in`
+- `verified` 26 Giving a feedback: 2/2 screenshots — `docs\Stoic\flows\26-giving-a-feedback`
+- `verified` 27 Library: 5/5 screenshots — `docs\Stoic\flows\27-library`
+- `verified` 28 Collections: 2/2 screenshots — `docs\Stoic\flows\28-collections`
+- `verified` 29 Collection detail: 4/4 screenshots — `docs\Stoic\flows\29-collection-detail`
+- `verified` 30 Completing a lesson: 6/6 screenshots — `docs\Stoic\flows\30-completing-a-lesson`
+- `verified` 31 Weekly themes: 5/5 screenshots — `docs\Stoic\flows\31-weekly-themes`
+- `verified` 32 Breathe: 4/4 screenshots — `docs\Stoic\flows\32-breathe`
+- `verified` 33 Completing an exercise (breathing): 7/7 screenshots — `docs\Stoic\flows\33-completing-an-exercise-breathing`
+- `verified` 34 Setting up exercise preferences: 9/9 screenshots — `docs\Stoic\flows\34-setting-up-exercise-preferences`
+- `verified` 35 Lesson detail: 3/3 screenshots — `docs\Stoic\flows\35-lesson-detail`
+- `verified` 36 Meditate: 4/4 screenshots — `docs\Stoic\flows\36-meditate`
+- `verified` 37 Completing an exercise (meditation): 6/6 screenshots — `docs\Stoic\flows\37-completing-an-exercise-meditation`
+- `verified` 38 Customizing background sounds: 7/7 screenshots — `docs\Stoic\flows\38-customizing-background-sounds`
+- `verified` 39 Pausing an exercise: 3/3 screenshots — `docs\Stoic\flows\39-pausing-an-exercise`
+- `verified` 40 Completing an exercise (walking meditation): 12/12 screenshots — `docs\Stoic\flows\40-completing-an-exercise-walking-meditation`
+- `verified` 41 Searching stoic.: 7/7 screenshots — `docs\Stoic\flows\41-searching-stoic`
+- `verified` 42 Journey: 6/6 screenshots — `docs\Stoic\flows\42-journey`
+- `verified` 43 Trends & insights: 12/12 screenshots — `docs\Stoic\flows\43-trends-insights`
+- `verified` 44 Mood calendar: 2/2 screenshots — `docs\Stoic\flows\44-mood-calendar`
+- `verified` 45 Switching data views: 3/3 screenshots — `docs\Stoic\flows\45-switching-data-views`
+- `verified` 46 Hiding a chart: 3/3 screenshots — `docs\Stoic\flows\46-hiding-a-chart`
+- `verified` 47 Excluding words: 7/7 screenshots — `docs\Stoic\flows\47-excluding-words`
+- `verified` 48 Removing an excluded word: 3/3 screenshots — `docs\Stoic\flows\48-removing-an-excluded-word`
+- `verified` 49 Sorting by months: 6/6 screenshots — `docs\Stoic\flows\49-sorting-by-months`
+- `verified` 50 Entry detail: 4/4 screenshots — `docs\Stoic\flows\50-entry-detail`
+- `verified` 51 Listening to a voice recording: 2/2 screenshots — `docs\Stoic\flows\51-listening-to-a-voice-recording`
+- `verified` 52 Daily entries: 2/2 screenshots — `docs\Stoic\flows\52-daily-entries`
+- `verified` 53 Filtering entries: 4/4 screenshots — `docs\Stoic\flows\53-filtering-entries`
+- `verified` 54 Sorting entries: 4/4 screenshots — `docs\Stoic\flows\54-sorting-entries`
+- `verified` 55 Badges: 5/5 screenshots — `docs\Stoic\flows\55-badges`
+- `verified` 56 Unlocked badges: 4/4 screenshots — `docs\Stoic\flows\56-unlocked-badges`
+- `verified` 57 All badges: 2/2 screenshots — `docs\Stoic\flows\57-all-badges`
+- `verified` 58 Stats: 4/4 screenshots — `docs\Stoic\flows\58-stats`
+- `verified` 59 Profile: 5/5 screenshots — `docs\Stoic\flows\59-profile`
+- `verified` 60 Switching to dark mode: 8/8 screenshots — `docs\Stoic\flows\60-switching-to-dark-mode`
+- `verified` 61 Setting up stoic shield: 14/14 screenshots — `docs\Stoic\flows\61-setting-up-stoic-shield`
+- `verified` 62 Updating a blocking schedule: 7/7 screenshots — `docs\Stoic\flows\62-updating-a-blocking-schedule`
+- `verified` 63 Turning on notifications: 4/4 screenshots — `docs\Stoic\flows\63-turning-on-notifications`
+- `verified` 64 Privacy policy: 2/2 screenshots — `docs\Stoic\flows\64-privacy-policy`

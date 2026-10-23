@@ -1,0 +1,70 @@
+# STATUS DEFINITIONS:
+# ==================
+# Epic Status:
+#   - backlog: Epic not yet started
+#   - in-progress: Epic actively being worked on
+#   - done: All stories in epic completed
+
+# Story Status:
+#   - backlog: Story only exists in epic file
+#   - ready-for-dev: Story file created, ready for development
+#   - in-progress: Developer actively working on implementation
+#   - review: Implementation complete, ready for review
+#   - done: Story completed
+
+# Retrospective Status:
+#   - optional: Can be completed but not required
+#   - done: Retrospective has been completed
+
+# Action Item Status:
+#   - open: Committed during a retrospective, not yet addressed
+#   - in-progress: Actively being worked on
+#   - done: Completed
+
+# WORKFLOW NOTES:
+# ===============
+# - Epic transitions to 'in-progress' automatically when its first story starts (via build's sprint sync)
+# - Stories can be worked in parallel if team capacity allows
+# - Developer typically creates the next story after the previous one is 'done' to incorporate learnings
+# - Dev moves story to 'review', then runs code-review (fresh context, different LLM recommended)
+# - Retrospective appends its action items to action_items; the status view surfaces open ones
+generated: 10-23-2026 11:19
+last_updated: 10-23-2026 12:19
+project: DiaryClone
+project_key: NOKEY
+tracking_system: file-system
+story_location: _bmad-output/implementation-artifacts
+development_status:
+  epic-1: backlog
+  1-1-set-up-initial-project-from-starter-template: backlog
+  1-2-complete-the-retained-onboarding-sequence: backlog
+  1-3-see-truthful-today-states: backlog
+  1-4-open-tomorrow-and-read-a-local-quote: backlog
+  epic-1-retrospective: optional
+
+  epic-2: backlog
+  2-1-start-and-resume-a-morning-reflection: backlog
+  2-2-complete-one-morning-reflection: backlog
+  2-3-complete-one-evening-reflection: backlog
+  2-4-keep-an-optional-evening-photo: backlog
+  2-5-choose-and-see-a-truthful-streak: backlog
+  epic-2-retrospective: optional
+
+  epic-3: backlog
+  3-1-find-and-read-committed-reflections: backlog
+  3-2-browse-one-day-s-entries: backlog
+  3-3-edit-an-entry-detail-safely: backlog
+  epic-3-retrospective: optional
+
+  epic-4: backlog
+  4-1-see-evening-feelings-in-mood-calendar: backlog
+  4-2-read-the-approved-trends-counts: backlog
+  4-3-switch-and-page-coherent-trends-periods: backlog
+  epic-4-retrospective: optional
+
+  epic-5: backlog
+  5-1-open-scoped-profile-and-privacy-screens: backlog
+  5-2-set-one-effective-morning-reminder: backlog
+  5-3-configure-the-evening-reminder-separately: backlog
+  5-4-reconcile-reminders-after-changes: backlog
+  epic-5-retrospective: optional
